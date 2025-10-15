@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="11" passed="11" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2025-10-15T00:10:57 IST" name="Suite" finished-at="2025-10-15T00:11:03 IST" duration-ms="6485">
+    <groups>
+    </groups>
+    <test started-at="2025-10-15T00:10:57 IST" name="Test" finished-at="2025-10-15T00:11:03 IST" duration-ms="6485">
+      <class name="SauceDemo_TestNG.test001">
+        <test-method is-config="true" signature="open_the_browser()[pri:0, instance:SauceDemo_TestNG.test001@2049a9c1]" started-at="2025-10-15T00:10:57 IST" name="open_the_browser" finished-at="2025-10-15T00:10:58 IST" duration-ms="1526" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- open_the_browser -->
+        <test-method is-config="true" signature="object_creation()[pri:0, instance:SauceDemo_TestNG.test001@2049a9c1]" started-at="2025-10-15T00:10:58 IST" name="object_creation" finished-at="2025-10-15T00:10:58 IST" duration-ms="16" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- object_creation -->
+        <test-method signature="validating_the_Title()[pri:1, instance:SauceDemo_TestNG.test001@2049a9c1]" started-at="2025-10-15T00:10:58 IST" name="validating_the_Title" finished-at="2025-10-15T00:10:58 IST" duration-ms="18" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- validating_the_Title -->
+        <test-method is-config="true" signature="object_creation()[pri:0, instance:SauceDemo_TestNG.test001@2049a9c1]" started-at="2025-10-15T00:10:58 IST" name="object_creation" finished-at="2025-10-15T00:10:58 IST" duration-ms="2" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- object_creation -->
+        <test-method signature="validating_the_URL()[pri:2, instance:SauceDemo_TestNG.test001@2049a9c1]" started-at="2025-10-15T00:10:58 IST" name="validating_the_URL" finished-at="2025-10-15T00:10:58 IST" duration-ms="15" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- validating_the_URL -->
+        <test-method is-config="true" signature="object_creation()[pri:0, instance:SauceDemo_TestNG.test001@2049a9c1]" started-at="2025-10-15T00:10:58 IST" name="object_creation" finished-at="2025-10-15T00:10:58 IST" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- object_creation -->
+        <test-method signature="read_the_credential()[pri:3, instance:SauceDemo_TestNG.test001@2049a9c1]" started-at="2025-10-15T00:10:58 IST" name="read_the_credential" finished-at="2025-10-15T00:10:59 IST" duration-ms="930" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- read_the_credential -->
+        <test-method signature="Validating_the_DropDown()[pri:4, instance:SauceDemo_TestNG.test001@2049a9c1]" started-at="2025-10-15T00:10:59 IST" name="Validating_the_DropDown" finished-at="2025-10-15T00:10:59 IST" duration-ms="322" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Validating_the_DropDown -->
+        <test-method is-config="true" signature="object_creation()[pri:0, instance:SauceDemo_TestNG.test001@2049a9c1]" started-at="2025-10-15T00:10:59 IST" name="object_creation" finished-at="2025-10-15T00:10:59 IST" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- object_creation -->
+        <test-method signature="Clicking_the_first_product()[pri:5, instance:SauceDemo_TestNG.test001@2049a9c1]" started-at="2025-10-15T00:10:59 IST" name="Clicking_the_first_product" finished-at="2025-10-15T00:11:00 IST" duration-ms="77" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Clicking_the_first_product -->
+        <test-method is-config="true" signature="object_creation()[pri:0, instance:SauceDemo_TestNG.test001@2049a9c1]" started-at="2025-10-15T00:10:59 IST" name="object_creation" finished-at="2025-10-15T00:10:59 IST" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- object_creation -->
+        <test-method is-config="true" signature="object_creation()[pri:0, instance:SauceDemo_TestNG.test001@2049a9c1]" started-at="2025-10-15T00:11:00 IST" name="object_creation" finished-at="2025-10-15T00:11:00 IST" duration-ms="2" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- object_creation -->
+        <test-method signature="clicking_the_add_to_cart()[pri:6, instance:SauceDemo_TestNG.test001@2049a9c1]" started-at="2025-10-15T00:11:00 IST" name="clicking_the_add_to_cart" finished-at="2025-10-15T00:11:00 IST" duration-ms="172" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- clicking_the_add_to_cart -->
+        <test-method is-config="true" signature="object_creation()[pri:0, instance:SauceDemo_TestNG.test001@2049a9c1]" started-at="2025-10-15T00:11:00 IST" name="object_creation" finished-at="2025-10-15T00:11:00 IST" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- object_creation -->
+        <test-method signature="add_to_cart_page_and_checkout()[pri:7, instance:SauceDemo_TestNG.test001@2049a9c1]" started-at="2025-10-15T00:11:00 IST" name="add_to_cart_page_and_checkout" finished-at="2025-10-15T00:11:00 IST" duration-ms="107" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- add_to_cart_page_and_checkout -->
+        <test-method is-config="true" signature="object_creation()[pri:0, instance:SauceDemo_TestNG.test001@2049a9c1]" started-at="2025-10-15T00:11:00 IST" name="object_creation" finished-at="2025-10-15T00:11:00 IST" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- object_creation -->
+        <test-method signature="checkout_Details()[pri:8, instance:SauceDemo_TestNG.test001@2049a9c1]" started-at="2025-10-15T00:11:00 IST" name="checkout_Details" finished-at="2025-10-15T00:11:00 IST" duration-ms="316" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- checkout_Details -->
+        <test-method signature="summary_Page()[pri:9, instance:SauceDemo_TestNG.test001@2049a9c1]" started-at="2025-10-15T00:11:00 IST" name="summary_Page" finished-at="2025-10-15T00:11:00 IST" duration-ms="355" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- summary_Page -->
+        <test-method is-config="true" signature="object_creation()[pri:0, instance:SauceDemo_TestNG.test001@2049a9c1]" started-at="2025-10-15T00:11:00 IST" name="object_creation" finished-at="2025-10-15T00:11:00 IST" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- object_creation -->
+        <test-method is-config="true" signature="object_creation()[pri:0, instance:SauceDemo_TestNG.test001@2049a9c1]" started-at="2025-10-15T00:11:00 IST" name="object_creation" finished-at="2025-10-15T00:11:00 IST" duration-ms="3" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- object_creation -->
+        <test-method signature="order_placed_msg()[pri:10, instance:SauceDemo_TestNG.test001@2049a9c1]" started-at="2025-10-15T00:11:00 IST" name="order_placed_msg" finished-at="2025-10-15T00:11:00 IST" duration-ms="24" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- order_placed_msg -->
+        <test-method is-config="true" signature="closing_the_Browser()[pri:0, instance:SauceDemo_TestNG.test001@2049a9c1]" started-at="2025-10-15T00:11:00 IST" name="closing_the_Browser" finished-at="2025-10-15T00:11:01 IST" duration-ms="243" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- closing_the_Browser -->
+      </class> <!-- SauceDemo_TestNG.test001 -->
+      <class name="SauceDemo_TestNG.test002">
+        <test-method is-config="true" signature="open_the_browser()[pri:0, instance:SauceDemo_TestNG.test002@2a225dd7]" started-at="2025-10-15T00:11:01 IST" name="open_the_browser" finished-at="2025-10-15T00:11:02 IST" duration-ms="1421" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- open_the_browser -->
+        <test-method is-config="true" signature="object_creation()[pri:0, instance:SauceDemo_TestNG.test002@2a225dd7]" started-at="2025-10-15T00:11:02 IST" name="object_creation" finished-at="2025-10-15T00:11:02 IST" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- object_creation -->
+        <test-method signature="read_the_credential()[pri:0, instance:SauceDemo_TestNG.test002@2a225dd7]" started-at="2025-10-15T00:11:02 IST" name="read_the_credential" finished-at="2025-10-15T00:11:03 IST" duration-ms="872" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- read_the_credential -->
+      </class> <!-- SauceDemo_TestNG.test002 -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
